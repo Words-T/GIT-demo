@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  height: 100vh;
+  background: linear-gradient(200deg, #005bea, #00c6fb);
+  overflow: hidden;
+}
+.plane {
+  color: #fff;
+  font-size: 70px;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
